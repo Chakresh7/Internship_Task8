@@ -94,7 +94,7 @@ Features used:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/kmeans-clustering-task.git
+   git clone https://github.com/Chakresh7/Internship_Task8
    cd kmeans-clustering-task
    ```
 2. Install dependencies:
